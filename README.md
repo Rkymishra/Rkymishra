@@ -3,7 +3,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rkymishra&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkymishra&hide=rich%20text%20format&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkymishra&hide=rich%20text%20format,css,html&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🏠 Working from home!
