@@ -46,3 +46,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkymishra&" alt="rkymishra" /></p>
 </div>
 
+<a href="https://app.daily.dev/rkymishra"><img src="https://github.com/rkymishra/rkymishra/blob/master/devcard.svg" width="200" alt="Rocky's Dev Card"/></a>
