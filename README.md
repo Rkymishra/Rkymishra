@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rocky</h1>
 <h3 align="center">A passionate Engineer from Nepal</h3>
 
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkymishra" alt="rkymishra" /></a>
-</p>
-
 <p align="center">
     <a href="https://twitter.com/rkymishra" target="blank"><img src="https://img.shields.io/twitter/follow/rkymishra?logo=twitter&style=for-the-badge" alt="rkymishra"/></a>
 </p>
