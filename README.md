@@ -35,10 +35,6 @@
   <img alt="Cloud - Azure" src="https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white&color=%2300A1F1">
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkymishra&show_icons=true&locale=en" alt="rkymishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkymishra&" alt="rkymishra" /></p>
-</div>
-
 <a href="https://app.daily.dev/rkymishra"><img src="https://github.com/rkymishra/rkymishra/blob/master/devcard.svg" width="200" alt="Rocky's Dev Card"/></a>
+
+</div>
