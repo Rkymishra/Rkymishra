@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-bottom : 35px">
 <a href="https://linkedin.com/in/rkymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkymishra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rkymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rkymishra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13378259/rocky-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rkymishra" height="30" width="40" /></a>
 <a href="https://fb.com/rkymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rkymishra" height="30" width="40" /></a>
 <a href="https://instagram.com/rkymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkymishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rkymishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rkymishra" height="30" width="40" /></a>
